@@ -1,1 +1,1 @@
-const { circle, triangle, square } = require("../lib/shapes")
+const { circle, triangle, square } = require("../lib/shape")
