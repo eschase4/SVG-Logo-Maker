@@ -17,7 +17,7 @@ I learned about SVG, and also about .then methods.
 
 ## Usage
 
-Type 'Node index.js" into your integrated terminal. For further details, please watch this video: https://drive.google.com/file/d/1YGigU2ehzyXMScW8Kw5-pJwxOuwTnhm1/view
+Right click index.js, and then left click "Open Integrated Terminal" (fourth option down). Type "npm i" into the terminal, then type 'Node index.js" once the installation is complete. Answer all questions, and then your new logo will appear in the 'output' folder. For further details, please watch this video: https://drive.google.com/file/d/1cBZeYNqIUv1Nww28m3GO1qRmyHcccA4u/view
 
 ## How To Contribute
 
